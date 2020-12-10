@@ -1,3 +1,35 @@
+
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+NOMBRE DEL PROYECTO:
+    Mueblería Africa
+
+OBJETIVO DEL SISTEMA:
+    Nuestro sistema es una página web, la cual se encarga de facilitar la administración del manejo de productos dentro de la empresa (opciones CRUD para la mueblería de la     misma). Estas funcionalidades están sólo disponibles para los empleados de la empresa Mueblería África.
+    También se provee de una página especialmente para los clientes.
+    Se trata de un inventario que facilita la empresa, donde indican los productos que se encuentran disponibles para comprar y la cantidad actual de los mismos dentro de la  empresa. Esta página tiene libre acceso
+
+INTEGRANTES:
+    Susana González
+    Isaias Contreras
+    
+INSTRUCCIONES DE INSTALACIÓN:
+    El proyecto fue realizado en XAMPP, y con Laravel haciendo uso de los módulo de composer.
+    La base de datos esta hecha en el entorno propio de XAMPP y utiliza MySQL PHPMyAdmin como gestor.
+    Se adjunta el archivo "Manual de Usuario" para una utilización correcta del sistema.
+    Se adjunta Respaldo de base de datos como archivo _muebleria.sql.
+    Descargar todo el contenido del repositorio o clonarlo en un entorno local.
+    Importar proyecto haciendo uso de composer o de forma manual.
+    Migrar base de datos utilizando el comando: php artisan migrate.
+    Utilizamos datos fictisios para poder probar el programa, se puede restaurar la base de datos con el archivo _muebleria.sql.
+    Utilizar el comando: php artisan serve.
+    finalmente abrir en el navegador el proyecto.
+   
+   
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
