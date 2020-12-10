@@ -11,8 +11,7 @@ OBJETIVO DEL SISTEMA:
     Se trata de un inventario que facilita la empresa, donde indican los productos que se encuentran disponibles para comprar y la cantidad actual de los mismos dentro de la  empresa. Esta página tiene libre acceso
 
 INTEGRANTES:
-    Susana González
-    Isaias Contreras
+    Susana González, Isaias Contreras
     
 INSTRUCCIONES DE INSTALACIÓN:
     El proyecto fue realizado en XAMPP, y con Laravel haciendo uso de los módulo de composer.
